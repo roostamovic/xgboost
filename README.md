@@ -1,2 +1,2 @@
-# xgboost
+# XGBoost
 Project for XGBoost
